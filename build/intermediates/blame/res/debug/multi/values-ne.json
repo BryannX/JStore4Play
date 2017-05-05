@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 222,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\brianngugi\\.android\\build-cache\\3d6cb78a3e6592a8b0918b2c9f4f367875642e35\\output\\res\\values-ne\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 222,
+                        "endOffset": 507
+                    }
+                }
+            }
+        ]
+    }
+]

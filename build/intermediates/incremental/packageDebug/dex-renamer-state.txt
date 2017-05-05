@@ -1,0 +1,7 @@
+#Fri Apr 28 04:39:05 EEST 2017
+base.0=C\:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9551bc83400492307b3a15b1f0aeba1e59b16769
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ac4840b53445fefd40f3e11d94b7ae33e3fee18f\\classes.dex
+base.1=C\:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ac4840b53445fefd40f3e11d94b7ae33e3fee18f
+file.0=C\:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9551bc83400492307b3a15b1f0aeba1e59b16769\\classes.dex

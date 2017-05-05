@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\brianngugi\Documents\GitHub\Jacobs Store 4 Play\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce90dbe4678e28e3675890c08a04527fcbb1ff9">
+        <dex dex="C:\Users\brianngugi\Documents\GitHub\Jacobs Store 4 Play\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9551bc83400492307b3a15b1f0aeba1e59b16769\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\brianngugi\Documents\GitHub\Jacobs Store 4 Play\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\brianngugi\Documents\GitHub\Jacobs Store 4 Play\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ac4840b53445fefd40f3e11d94b7ae33e3fee18f\classes.dex" />
+    </item>
+
+</items>

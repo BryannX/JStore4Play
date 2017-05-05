@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_bookmark_border_black_24dp.png",
+        "source": "C:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\src\\main\\res\\drawable-xxhdpi\\ic_bookmark_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_favorite_black_24dp.png",
+        "source": "C:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\src\\main\\res\\drawable-xxhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png",
+        "source": "C:\\Users\\brianngugi\\Documents\\GitHub\\Jacobs Store 4 Play\\src\\main\\res\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    }
+]
